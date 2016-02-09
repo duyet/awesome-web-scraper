@@ -2,6 +2,21 @@
 
 A collection of awesome web scaper, crawler.
 
+## Java
+* [Apache Nutch](http://nutch.apache.org/) - Highly extensible, highly scalable Web crawler. Pluggable parsing, protocols, storage and indexing.
+* [websphinx](http://www.cs.cmu.edu/~rcm/websphinx/) - Website-Specific Processors for HTML INformation eXtraction.
+* [Open Search Server](http://www.opensearchserver.com/) - A full set of search functions. Build your own indexing strategy. Parsers extract full-text data. The crawlers can index everything.
+* [crawler4j](https://github.com/yasserg/crawler4j) - open source web crawler for Java which provides a simple interface for crawling the Web. Using it, you can setup a multi-threaded web crawler in few minutes.
+
+## C/C++
+* [HTTrack](http://www.httrack.com/) - Highly extensible, highly scalable Web crawler. Pluggable parsing, protocols, storage and indexing.
+
+## C#
+* [ccrawler](http://www.findbestopensource.com/product/ccrawler) - Built in C# 3.5 version. it contains a simple extention of web content categorizer, which can saparate between the web page depending on their content.
+
+## Erlang
+* [ebot](https://github.com/matteoredaelli/ebot) - Opensource Web Crawler built on top of a nosql database (apache couchdb, riak), AMQP database (rabbitmq), webmachine and mochiweb.
+
 ## Python
 * [scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 
