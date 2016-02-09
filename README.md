@@ -18,6 +18,8 @@ A collection of awesome web scaper, crawler.
 ## Ruby
 * [wombat](https://github.com/felipecsl/wombat) - Lightweight Ruby web crawler/scraper with an elegant DSL which extracts structured data from pages.
 
+## Go
+* [gocrawl](https://github.com/PuerkitoBio/gocrawl) - Polite, slim and concurrent web crawler.
 
 ---------------------
 
