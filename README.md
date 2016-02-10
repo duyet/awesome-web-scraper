@@ -1,4 +1,5 @@
-# Awesome Web Scraper [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Web Scraper [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/duyetdev/awesome-web-scraper.svg)](https://travis-ci.org/duyetdev/awesome-web-scraper)
+
 
 A collection of awesome web scaper, crawler.
 
