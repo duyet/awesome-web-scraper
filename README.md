@@ -27,7 +27,7 @@ A collection of awesome web scaper, crawler.
 * [PHPCrawl](http://phpcrawl.cuab.de/) - PHPCrawl is a framework for crawling/spidering websites written in PHP.
 
 ## Nodejs
-* [Phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit
+* [Phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit.
 * [node-crawler](https://github.com/sylvinus/node-crawler) - Web Crawler/Spider for NodeJS + server-side jQuery.
 * [node-simplecrawler](https://github.com/cgiffard/node-simplecrawler) - Flexible event driven crawler for node.
 * [spider](https://github.com/mikeal/spider) - Programmable spidering of web sites with node.js and jQuery.
