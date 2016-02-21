@@ -23,6 +23,7 @@ A collection of awesome web scaper, crawler.
 
 ## PHP 
 * [Goutte](https://github.com/FriendsOfPHP/Goutte) - Goutte, a simple PHP Web Scraper.
+* [DiDOM](https://github.com/Imangazaliev/DiDOM) - Simple and fast HTML parser.
 * [simple_html_dom](https://github.com/samacs/simple_html_dom) - Just a Simple HTML DOM library fork.
 * [PHPCrawl](http://phpcrawl.cuab.de/) - PHPCrawl is a framework for crawling/spidering websites written in PHP.
 
