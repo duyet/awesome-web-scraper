@@ -32,6 +32,10 @@ A collection of awesome web scaper, crawler.
 * [node-crawler](https://github.com/sylvinus/node-crawler) - Web Crawler/Spider for NodeJS + server-side jQuery.
 * [node-simplecrawler](https://github.com/cgiffard/node-simplecrawler) - Flexible event driven crawler for node.
 * [spider](https://github.com/mikeal/spider) - Programmable spidering of web sites with node.js and jQuery.
+* [slimerjs](https://github.com/laurentj/slimerjs) - A PhantomJS-like tool running Gecko.
+* [casperjs](https://github.com/n1k0/casperjs) - Navigation scripting & testing utility for PhantomJS and SlimerJS.
+* [zombie](https://github.com/assaf/zombie) - Insanely fast, full-stack, headless browser testing using node.js.
+* [nightmare](https://github.com/segmentio/nightmare) - Nightmare is a high level wrapper for PhantomJS that lets you automate browser tasks
 
 ## Ruby
 * [wombat](https://github.com/felipecsl/wombat) - Lightweight Ruby web crawler/scraper with an elegant DSL which extracts structured data from pages.
