@@ -28,6 +28,7 @@ A collection of awesome web scaper, crawler.
 * [PHPCrawl](http://phpcrawl.cuab.de/) - PHPCrawl is a framework for crawling/spidering websites written in PHP.
 
 ## Nodejs
+
 * [Phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit.
 * [node-crawler](https://github.com/sylvinus/node-crawler) - Web Crawler/Spider for NodeJS + server-side jQuery.
 * [node-simplecrawler](https://github.com/cgiffard/node-simplecrawler) - Flexible event driven crawler for node.
@@ -37,6 +38,7 @@ A collection of awesome web scaper, crawler.
 * [zombie](https://github.com/assaf/zombie) - Insanely fast, full-stack, headless browser testing using node.js.
 * [nightmare](https://github.com/segmentio/nightmare) - Nightmare is a high level wrapper for PhantomJS that lets you automate browser tasks
 * [jsdom](https://github.com/tmpvar/jsdom) - A JavaScript implementation of the WHATWG DOM and HTML standards, for use with node.js
+* [xray](https://github.com/lapwinglabs/x-ray) - The next web scraper. See through the `<html>` noise.
 
 ## Ruby
 * [wombat](https://github.com/felipecsl/wombat) - Lightweight Ruby web crawler/scraper with an elegant DSL which extracts structured data from pages.
