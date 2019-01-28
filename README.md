@@ -13,7 +13,7 @@ A collection of awesome web scaper, crawler.
 * [HTTrack](http://www.httrack.com/) - Highly extensible, highly scalable Web crawler. Pluggable parsing, protocols, storage and indexing.
 
 ## C#
-* [ccrawler](http://www.findbestopensource.com/product/ccrawler) - Built in C# 3.5 version. it contains a simple extention of web content categorizer, which can saparate between the web page depending on their content.
+* [ccrawler](https://code.google.com/archive/p/ccrawler/) - Built in C# 3.5 version. it contains a simple extention of web content categorizer, which can saparate between the web page depending on their content.
 
 ## Erlang
 * [ebot](https://github.com/matteoredaelli/ebot) - Opensource Web Crawler built on top of a nosql database (apache couchdb, riak), AMQP database (rabbitmq), webmachine and mochiweb.
@@ -33,14 +33,14 @@ A collection of awesome web scaper, crawler.
 * [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node API https://pptr.dev.
 * [Phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit.
 * [node-crawler](https://github.com/bda-research/node-crawler) - Web Crawler/Spider for NodeJS + server-side jQuery.
-* [node-simplecrawler](https://github.com/cgiffard/node-simplecrawler) - Flexible event driven crawler for node.
+* [node-simplecrawler](https://github.com/simplecrawler/node-simplecrawler) - Flexible event driven crawler for node.
 * [spider](https://github.com/mikeal/spider) - Programmable spidering of web sites with node.js and jQuery.
 * [slimerjs](https://github.com/laurentj/slimerjs) - A PhantomJS-like tool running Gecko.
 * [casperjs](https://github.com/casperjs/casperjs) - Navigation scripting & testing utility for PhantomJS and SlimerJS.
 * [zombie](https://github.com/assaf/zombie) - Insanely fast, full-stack, headless browser testing using node.js.
 * [nightmare](https://github.com/segmentio/nightmare) - Nightmare is a high level wrapper for PhantomJS that lets you automate browser tasks
-* [jsdom](https://github.com/tmpvar/jsdom) - A JavaScript implementation of the WHATWG DOM and HTML standards, for use with node.js
-* [xray](https://github.com/lapwinglabs/x-ray) - The next web scraper. See through the `<html>` noise.
+* [jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of the WHATWG DOM and HTML standards, for use with node.js
+* [xray](https://github.com/matthewmueller/x-ray) - The next web scraper. See through the `<html>` noise.
 * [lightcrawler](https://github.com/github/lightcrawler) - Crawl a website and run it through Google lighthouse.
 
 ## Ruby
