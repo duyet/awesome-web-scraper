@@ -33,7 +33,7 @@ A collection of awesome web scaper, crawler.
 * [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node API https://pptr.dev.
 * [Phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit.
 * [node-crawler](https://github.com/bda-research/node-crawler) - Web Crawler/Spider for NodeJS + server-side jQuery.
-* [node-simplecrawler](https://github.com/simplecrawler/node-simplecrawler) - Flexible event driven crawler for node.
+* [node-simplecrawler](https://github.com/simplecrawler/simplecrawler) - Flexible event driven crawler for node.
 * [spider](https://github.com/mikeal/spider) - Programmable spidering of web sites with node.js and jQuery.
 * [slimerjs](https://github.com/laurentj/slimerjs) - A PhantomJS-like tool running Gecko.
 * [casperjs](https://github.com/casperjs/casperjs) - Navigation scripting & testing utility for PhantomJS and SlimerJS.
