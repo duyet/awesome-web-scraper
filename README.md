@@ -25,6 +25,7 @@ A collection of awesome web scaper, crawler.
 ## Python
 * [scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 * [gdom](https://github.com/syrusakbary/gdom) - gdom, DOM Traversing and Scraping using GraphQL.
+* [extractnet](https://github.com/currentsapi/extractnet) - machine learning based content & metadata extraction framework for Python
 
 ## PHP 
 * [Goutte](https://github.com/FriendsOfPHP/Goutte) - Goutte, a simple PHP Web Scraper.
