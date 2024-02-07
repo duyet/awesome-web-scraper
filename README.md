@@ -31,6 +31,7 @@ A collection of awesome web scaper, crawler.
 * [DiDOM](https://github.com/Imangazaliev/DiDOM) - Simple and fast HTML parser.
 * [simple_html_dom](https://github.com/samacs/simple_html_dom) - Just a Simple HTML DOM library fork.
 * [PHPCrawl](http://phpcrawl.cuab.de/) - PHPCrawl is a framework for crawling/spidering websites written in PHP.
+* [Crawler](https://www.crwlr.software/packages/crawler) - A library for Rapid Web Crawler and Scraper Development.
 
 ## Nodejs
 
