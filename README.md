@@ -1,9 +1,4 @@
-# Awesome Web Scraper [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/duyetdev/awesome-web-scraper.svg)](https://travis-ci.org/duyetdev/awesome-web-scraper)
-
-**Support**
-
-<a href="https://www.patreon.com/duyet"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160"></a>
-
+# Awesome Web Scraper [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A collection of awesome web scaper, crawler.
 
