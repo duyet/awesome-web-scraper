@@ -29,6 +29,7 @@ A collection of awesome web scaper, crawler.
 * [simple_html_dom](https://github.com/samacs/simple_html_dom) - Just a Simple HTML DOM library fork.
 * [PHPCrawl](http://phpcrawl.cuab.de/) - PHPCrawl is a framework for crawling/spidering websites written in PHP.
 * [Crawler](https://www.crwlr.software/packages/crawler) - A library for Rapid Web Crawler and Scraper Development.
+* [Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - An open source library for making scraping with the use of the AI
 
 ## Nodejs
 
