@@ -20,6 +20,7 @@ A collection of awesome web scaper, crawler.
 ## Python
 * [scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 * [gdom](https://github.com/syrusakbary/gdom) - gdom, DOM Traversing and Scraping using GraphQL.
+* [invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Playwright wrapper driving a patched Firefox with a realistic, consistent fingerprint for pages that filter automated browsers.
 * [trafilatura](https://github.com/adbar/trafilatura) - Library and command-line tool to extract metadata, main text, and comments.
 * [extractnet](https://github.com/currentsapi/extractnet) - machine learning based content & metadata extraction framework for Python
 * [Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - An open source library for making scraping with the use of the AI
