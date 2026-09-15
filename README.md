@@ -68,3 +68,7 @@ A collection of awesome web scaper, crawler.
 Please, read the [Contribution Guidelines](https://github.com/duyetdev/awesome-web-scraper/blob/master/CONTRIBUTING.md) before submitting your suggestion.
 
 Feel free to [open an issue](https://github.com/duyetdev/awesome-web-scraper/issues) or [create a pull request](https://github.com/duyetdev/awesome-web-scraper/pulls) with your additions.
+
+## Proxies & Anti-Detection
+* [PXM2](https://pxm2.io/) - High-speed dedicated 4G/5G rotating mobile proxies on real carrier hardware with instant API rotation for scraping and automation.
+* [PXM2 Proxy Checker](https://pxm2.io/proxy-checker/) - Free HTTP/SOCKS5 mobile proxy diagnostic tool with DNS leak and UDP testing.
