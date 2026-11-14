@@ -52,6 +52,7 @@ A collection of awesome web scaper, crawler.
 ## Go
 * [gocrawl](https://github.com/PuerkitoBio/gocrawl) - Polite, slim and concurrent web crawler.
 * [fetchbot](https://github.com/PuerkitoBio/fetchbot) - A simple and flexible web crawler that follows the robots.txt policies and crawl delays.
+* [huntsman](https://github.com/TulipFarm/huntsman) - Self-hosted scraper that turns any page into clean Markdown, with a Firecrawl-compatible API and JavaScript rendering through Lightpanda.
 
 ## Rust
 * [scraper](https://github.com/causal-agent/scraper) - HTML parsing and querying with CSS selectors.
