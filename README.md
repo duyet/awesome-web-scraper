@@ -43,6 +43,7 @@ A collection of awesome web scaper, crawler.
 * [casperjs](https://github.com/casperjs/casperjs) - Navigation scripting & testing utility for PhantomJS and SlimerJS.
 * [zombie](https://github.com/assaf/zombie) - Insanely fast, full-stack, headless browser testing using node.js.
 * [nightmare](https://github.com/segmentio/nightmare) - Nightmare is a high level wrapper for PhantomJS that lets you automate browser tasks
+* [Lumen](https://github.com/omxyz/lumen) - A vision-first browser agent with self-healing deterministic replay over CDP.
 * [jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of the WHATWG DOM and HTML standards, for use with node.js
 * [xray](https://github.com/matthewmueller/x-ray) - The next web scraper. See through the `<html>` noise.
 * [lightcrawler](https://github.com/github/lightcrawler) - Crawl a website and run it through Google lighthouse.
