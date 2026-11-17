@@ -23,6 +23,7 @@ A collection of awesome web scaper, crawler.
 * [trafilatura](https://github.com/adbar/trafilatura) - Library and command-line tool to extract metadata, main text, and comments.
 * [extractnet](https://github.com/currentsapi/extractnet) - machine learning based content & metadata extraction framework for Python
 * [Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - An open source library for making scraping with the use of the AI
+* [Parse Everything](https://github.com/zenkdom/parse-everything-global) - High-performance web scraping and anti-bot bypass engine using Playwright stealth automation and TLS impersonation.
 
 ## PHP 
 * [Goutte](https://github.com/FriendsOfPHP/Goutte) - Goutte, a simple PHP Web Scraper.
