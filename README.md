@@ -24,6 +24,7 @@ A collection of awesome web scaper, crawler.
 * [extractnet](https://github.com/currentsapi/extractnet) - machine learning based content & metadata extraction framework for Python
 * [Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - An open source library for making scraping with the use of the AI
 * [parse-everything](https://github.com/zenkdom/parse-everything-global) - Python library and anti-bot scraping client with Playwright stealth automation and TLS impersonation.
+* [socialapis-sdk](https://github.com/SocialAPIsHub/socialapis-python) - Python client for public Facebook and Instagram data: pages, posts, groups, Ads Library and Marketplace.
 
 ## PHP 
 * [Goutte](https://github.com/FriendsOfPHP/Goutte) - Goutte, a simple PHP Web Scraper.
